@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying at **FCT - UNESP**
 
-- 🌱 I’m currently learning **HTML and CSS**
+- 🌱 I’m currently learning **C, HTML and CSS**
 
 - 💬 Ask me anything <a href="https://github.com/lukastorresu/lukastorresu/issues/new" target="blak">here</a>
 
