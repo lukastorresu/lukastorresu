@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Lucas! 👋</h1>
+  <h1>Hi there, I'm Luke! 👋</h1>
   <h3>📊 Junior Data Analyst | 💻 Software Developer | 🎮 Game Dev Enthusiast</h3>
   <p><i>Transforming raw data into actionable insights & bringing digital worlds to life</i></p>
 </div>
