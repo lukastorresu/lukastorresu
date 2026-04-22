@@ -41,15 +41,6 @@ I am a tech professional with a strong focus on **Data Analysis**, **Database Ma
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lukastorresu&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukastorresu&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" width="48%" />
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
